@@ -1,0 +1,14 @@
+NAME                                    DESIRED   CURRENT   READY   AGE
+replicaset.apps/project-ml-78d8d9b7f4   1         1         1       2m30s
+replicaset.apps/project-ml-79cb55b976   0         0         0       7m37s
+
+NAME                 TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)   AGE
+service/kubernetes   ClusterIP   10.96.0.1    <none>        443/TCP   9h
+
+NAME                              READY   STATUS    RESTARTS   AGE
+pod/project-ml-78d8d9b7f4-svlvj   1/1     Running   0          2m30s
+Name of the Pod: project-ml-78d8d9b7f4-svlvj
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+
