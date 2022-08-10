@@ -1,4 +1,4 @@
-[![calebarcher](https://circleci.com/gh/calebarcher/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/calebarcher/Udacity_p4_Operationalize_Microservice)
+[![calebarcher](https://circleci.com/gh/calebarcher/Udacity_p4_Operationalize_Microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/calebarcher/Udacity_p4_Operationalize_Microservice)
 
 ## Project Description
 
